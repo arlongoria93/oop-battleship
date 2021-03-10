@@ -13,7 +13,7 @@ class Board {
   display() {
     // TODO: Print the game board with marks on any spaces that have been fired
     // upon. Be sure not to display the unhit ships to the user! Hint: you might
-    // be able to use console.table()
+    // be able to use console.table()/
   }
 
   count() {
